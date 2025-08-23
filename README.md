@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=abhii-a" alt="abhii-a" /></a> </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" />
+</p>
 
 - 🔭 I’m currently working on **Tailored Movie Recommendation System using AI**
 
